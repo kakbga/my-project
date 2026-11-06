@@ -3,4 +3,4 @@
 这是我的第一个 GitHub 项目。
 
 ## About
-Learning Git and GitHub
+Learning Git and GitHub.
